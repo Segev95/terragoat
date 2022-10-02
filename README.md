@@ -9,6 +9,8 @@
 ![Terraform Version](https://img.shields.io/badge/tf-%3E%3D0.12.0-blue.svg) 
 [![slack-community](https://img.shields.io/badge/Slack-4A154B?style=plastic&logo=slack&logoColor=white)](https://slack.bridgecrew.io/)
 
+[![Infrastructure Tests](https://www.bridgecrew.cloud/badges/github/segev95/terragoat/general)](https://www.bridgecrew.cloud/link/badge?vcs=github&fullRepo=Segev95%2Fterragoat&benchmark=INFRASTRUCTURE+SECURITY)
+
 
 TerraGoat is Bridgecrew's "Vulnerable by Design" Terraform repository.
 ![Terragoat](terragoat-logo.png)
