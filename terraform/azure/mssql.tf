@@ -129,6 +129,7 @@ resource "azurerm_mssql_server" "mssql6" {
     git_repo             = "terragoat"
     yor_trace            = "042d15fb-edfa-484b-b65e-3d70c50cdee7"
   }
+  minimum_tls_version = "1.2"
 }
 
 resource "azurerm_mssql_server" "mssql7" {
